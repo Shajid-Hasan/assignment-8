@@ -3,7 +3,7 @@ import React from 'react';
 const Apps = () => {
     return (
         <div>
-            this is apps
+            <h1>This is apps page</h1>
         </div>
     );
 };

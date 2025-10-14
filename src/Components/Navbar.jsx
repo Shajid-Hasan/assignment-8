@@ -1,6 +1,7 @@
 import React from 'react';
 import Logo from '../assets/logo.png'
 import Github from '../assets/git.png'
+import { Link } from 'react-router';
 const Navbar = () => {
     return (
         <div className="navbar max-w-11/12 mx-auto border-none">
@@ -12,25 +13,26 @@ const Navbar = () => {
                     <ul
                         tabIndex="-1"
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                        <li className='hover:bg-white'><a>Home</a></li>
-                        <li ><a>Apps</a></li>
-                        <li ><a>Installation</a></li>
+                        <li className='hover:bg-white'><Link to='/'>Home</Link></li>
+                        <li ><Link to='/apps'>Apps</Link></li>
+                        <li ><Link to='/installation'>Installation</Link></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl text-[#9F62F2]"><img className="w-10 h-10 rounded-full mr-2" src={Logo} alt="" />HERO.IO</a>
+                <Link to="/" className="btn btn-ghost text-xl text-[#9F62F2] flex items-center">
+                    <img className="w-10 h-10 rounded-full mr-2" src={Logo} alt="Logo" />
+                    HERO.IO
+                </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-semibold">
-                    <li className='hover:bg-white'><a className='hover:text-[#9F62F2]'>Home</a></li>
-                    <li className='hover:bg-white'><a className='hover:text-[#9F62F2]'>Apps</a></li>
-                    <li className='hover:bg-white'><a className='hover:text-[#9F62F2]'>Installation</a></li>
+                    <li className='hover:bg-white'><Link to='/' className='hover:text-[#9F62F2]'>Home</Link></li>
+                    <li className='hover:bg-white'><Link to='/apps' className='hover:text-[#9F62F2]'>Apps</Link></li>
+                    <li className='hover:bg-white'><Link to='/installation' className='hover:text-[#9F62F2]'>Installation</Link></li>
                 </ul>
             </div>
             <div className="navbar-end">
                 <a
                     href="https://github.com/Shajid-Hasan"
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white flex items-center gap-2"
                 >
                     <img src={Github} alt="GitHub" className="w-5 h-5" />

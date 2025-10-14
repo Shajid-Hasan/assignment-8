@@ -1,0 +1,266 @@
+[
+    {
+        "image": "https://i.postimg.cc/B6khyB4c/960x0.webp",
+        "title": "WeatherNow",
+        "companyName": "Weather Inc",
+        "id": 1,
+        "description": "Weather Inc delivers real-time global weather data using AI and satellite analysis. It empowers users and businesses with precise climate forecasts, helping them plan efficiently and stay informed about changing weather conditions worldwide.",
+        "size": 35,
+        "reviews": 1250,
+        "ratingAvg": 4.6,
+        "downloads": 50000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 640
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/g22vV6bQ/images-2.png",
+        "title": "FitLife",
+        "companyName": "Health Corp",
+        "id": 2,
+        "description": "Health Corp develops intelligent fitness and wellness apps that merge AI, data analytics, and health science. Its products help users track workouts, monitor nutrition, and achieve their fitness goals with personalized recommendations.",
+        "size": 50,
+        "reviews": 890,
+        "ratingAvg": 4.3,
+        "downloads": 35000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 390
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/85ZGr3dP/unnamed.webp",
+        "title": "TaskFlow",
+        "companyName": "Prodify Labs",
+        "id": 3,
+        "description": "Prodify Labs creates productivity tools that simplify work management and organization. Its software, like TaskFlow, helps users plan, track, and complete tasks efficiently, improving daily workflow and collaboration through intuitive design.",
+        "size": 28,
+        "reviews": 740,
+        "ratingAvg": 4.4,
+        "downloads": 42000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 300
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/RhhVXfvz/unnamed.png",
+        "title": "MusicBeat",
+        "companyName": "RhythmSoft",
+        "id": 4,
+        "description": "RhythmSoft designs innovative music streaming solutions connecting listeners with artists worldwide. Its app, MusicBeat, personalizes listening experiences with AI-powered recommendations, curated playlists, and seamless streaming technology for global music lovers.",
+        "size": 80,
+        "reviews": 2400,
+        "ratingAvg": 4.8,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 700
+            },
+            {
+                "name": "5 star",
+                "count": 1400
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/0yB3wwB0/images-4.png",
+        "title": "ShopSmart",
+        "companyName": "EcomWorld",
+        "id": 5,
+        "description": "EcomWorld builds smart e-commerce platforms that make shopping easier and faster. Through AI-driven recommendations, secure payments, and sustainable logistics, it connects customers with quality products and empowers retailers to grow online.",
+        "size": 65,
+        "reviews": 3100,
+        "ratingAvg": 4.5,
+        "downloads": 98000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 250
+            },
+            {
+                "name": "4 star",
+                "count": 900
+            },
+            {
+                "name": "5 star",
+                "count": 1730
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/SR1LvW8R/images-5.png",
+        "title": "Foodly",
+        "companyName": "EatRight Co.",
+        "id": 6,
+        "description": "EatRight Co. combines food delivery, technology, and data insights to enhance dining experiences. Its app, Foodly, connects customers to local restaurants with real-time tracking, smart recommendations, and fast, reliable service.",
+        "size": 55,
+        "reviews": 2800,
+        "ratingAvg": 4.7,
+        "downloads": 110000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 70
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 1640
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/QxLcHxbv/qy-Tg1-Xt3-400x400.jpg",
+        "title": "StudyHub",
+        "companyName": "EduTech",
+        "id": 7,
+        "description": "EduTech revolutionizes learning through digital platforms like StudyHub. It offers interactive courses, progress tracking, and personalized learning paths, making quality education accessible and engaging for students, professionals, and lifelong learners globally.",
+        "size": 90,
+        "reviews": 1700,
+        "ratingAvg": 4.6,
+        "downloads": 67000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 70
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 500
+            },
+            {
+                "name": "5 star",
+                "count": 870
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/Gmt3RvDk/65fb3c-469bb72e5abb4836b757d89f5cf02e73-mv2.png",
+        "title": "TravelGo",
+        "companyName": "GlobeX",
+        "id": 8,
+        "description": "GlobeX simplifies travel with intelligent planning tools. Its app, TravelGo, helps users book flights, hotels, and experiences effortlessly while offering personalized recommendations for destinations and eco-friendly travel options worldwide.",
+        "size": 75,
+        "reviews": 1950,
+        "ratingAvg": 4.4,
+        "downloads": 83000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 80
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "3 star",
+                "count": 230
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "5 star",
+                "count": 950
+            }
+        ]
+    }
+]
