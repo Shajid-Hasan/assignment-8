@@ -1,0 +1,662 @@
+[
+    {
+        "image": "https://i.postimg.cc/B6khyB4c/960x0.webp",
+        "title": "WeatherNow",
+        "companyName": "Weather Inc",
+        "id": 1,
+        "description": "Weather Inc delivers real-time global weather data using AI and satellite analysis. It empowers users and businesses with precise climate forecasts, helping them plan efficiently and stay informed about changing weather conditions worldwide.",
+        "size": 35,
+        "reviews": 1250,
+        "ratingAvg": 4.6,
+        "downloads": 50000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 640
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/g22vV6bQ/images-2.png",
+        "title": "FitLife",
+        "companyName": "Health Corp",
+        "id": 2,
+        "description": "Health Corp develops intelligent fitness and wellness apps that merge AI, data analytics, and health science. Its products help users track workouts, monitor nutrition, and achieve their fitness goals with personalized recommendations.",
+        "size": 50,
+        "reviews": 890,
+        "ratingAvg": 4.3,
+        "downloads": 35000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 390
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/85ZGr3dP/unnamed.webp",
+        "title": "TaskFlow",
+        "companyName": "Prodify Labs",
+        "id": 3,
+        "description": "Prodify Labs creates productivity tools that simplify work management and organization. Its software, like TaskFlow, helps users plan, track, and complete tasks efficiently, improving daily workflow and collaboration through intuitive design.",
+        "size": 28,
+        "reviews": 740,
+        "ratingAvg": 4.4,
+        "downloads": 42000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 300
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/RhhVXfvz/unnamed.png",
+        "title": "MusicBeat",
+        "companyName": "RhythmSoft",
+        "id": 4,
+        "description": "RhythmSoft designs innovative music streaming solutions connecting listeners with artists worldwide. Its app, MusicBeat, personalizes listening experiences with AI-powered recommendations, curated playlists, and seamless streaming technology for global music lovers.",
+        "size": 80,
+        "reviews": 2400,
+        "ratingAvg": 4.8,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 700
+            },
+            {
+                "name": "5 star",
+                "count": 1400
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/0yB3wwB0/images-4.png",
+        "title": "ShopSmart",
+        "companyName": "EcomWorld",
+        "id": 5,
+        "description": "EcomWorld builds smart e-commerce platforms that make shopping easier and faster. Through AI-driven recommendations, secure payments, and sustainable logistics, it connects customers with quality products and empowers retailers to grow online.",
+        "size": 65,
+        "reviews": 3100,
+        "ratingAvg": 4.5,
+        "downloads": 98000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 250
+            },
+            {
+                "name": "4 star",
+                "count": 900
+            },
+            {
+                "name": "5 star",
+                "count": 1730
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/SR1LvW8R/images-5.png",
+        "title": "Foodly",
+        "companyName": "EatRight Co.",
+        "id": 6,
+        "description": "EatRight Co. combines food delivery, technology, and data insights to enhance dining experiences. Its app, Foodly, connects customers to local restaurants with real-time tracking, smart recommendations, and fast, reliable service.",
+        "size": 55,
+        "reviews": 2800,
+        "ratingAvg": 4.7,
+        "downloads": 110000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 70
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 1640
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/QxLcHxbv/qy-Tg1-Xt3-400x400.jpg",
+        "title": "StudyHub",
+        "companyName": "EduTech",
+        "id": 7,
+        "description": "EduTech revolutionizes learning through digital platforms like StudyHub. It offers interactive courses, progress tracking, and personalized learning paths, making quality education accessible and engaging for students, professionals, and lifelong learners globally.",
+        "size": 90,
+        "reviews": 1700,
+        "ratingAvg": 4.6,
+        "downloads": 67000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 70
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 500
+            },
+            {
+                "name": "5 star",
+                "count": 870
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/Gmt3RvDk/65fb3c-469bb72e5abb4836b757d89f5cf02e73-mv2.png",
+        "title": "TravelGo",
+        "companyName": "GlobeX",
+        "id": 8,
+        "description": "GlobeX simplifies travel with intelligent planning tools. Its app, TravelGo, helps users book flights, hotels, and experiences effortlessly while offering personalized recommendations for destinations and eco-friendly travel options worldwide.",
+        "size": 75,
+        "reviews": 1950,
+        "ratingAvg": 4.4,
+        "downloads": 83000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 80
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "3 star",
+                "count": 230
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "5 star",
+                "count": 950
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/J0NYzjKT/PU-NOTE-RGB-COLOR-SHARING-1-1024x1024.png",
+        "title": "NoteMaster",
+        "companyName": "Productive Apps",
+        "id": 9,
+        "description": "NoteMaster helps users organize their thoughts, notes, and reminders efficiently with a clean interface and cloud syncing.",
+        "size": 30,
+        "reviews": 560,
+        "ratingAvg": 4.2,
+        "downloads": 25000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 260
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/7P9gwBnd/unnamed.jpg",
+        "title": "FitTrack",
+        "companyName": "HealthTech",
+        "id": 10,
+        "description": "FitTrack tracks your workouts, calories, and health goals with AI-powered analytics and personalized suggestions.",
+        "size": 48,
+        "reviews": 800,
+        "ratingAvg": 4.5,
+        "downloads": 42000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 45
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 360
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/SsNxrGYt/small.jpg",
+        "title": "MindCalm",
+        "companyName": "Wellness Inc",
+        "id": 11,
+        "description": "MindCalm provides guided meditation, sleep sounds, and stress management exercises for mental wellness.",
+        "size": 40,
+        "reviews": 450,
+        "ratingAvg": 4.3,
+        "downloads": 30000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 120
+            },
+            {
+                "name": "5 star",
+                "count": 200
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/yNfk25Hy/187fd517-ed14-42ba-8862-9383f6361ad0-logo.webp",
+        "title": "PhotoSnap",
+        "companyName": "SnapTech",
+        "id": 12,
+        "description": "PhotoSnap is a powerful photo editing app with filters, effects, and cloud storage for photographers and social media enthusiasts.",
+        "size": 60,
+        "reviews": 1100,
+        "ratingAvg": 4.6,
+        "downloads": 65000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 540
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/Wz0ppYQC/unnamed-1.png",
+        "title": "BudgetBuddy",
+        "companyName": "FinTech Co",
+        "id": 13,
+        "description": "BudgetBuddy helps you track expenses, create budgets, and save money with easy-to-read charts and notifications.",
+        "size": 35,
+        "reviews": 600,
+        "ratingAvg": 4.4,
+        "downloads": 38000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "5 star",
+                "count": 250
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/rFJch4cj/d788081a7388e8d0494cca66e42a91b7.jpg",
+        "title": "TravelBuddy",
+        "companyName": "TripSmart",
+        "id": 14,
+        "description": "TravelBuddy helps users plan trips, find flights, and book hotels effortlessly with personalized travel suggestions.",
+        "size": 70,
+        "reviews": 900,
+        "ratingAvg": 4.5,
+        "downloads": 54000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 310
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/vHPkgtGQ/gamezone.jpg",
+        "title": "GameZone",
+        "companyName": "FunApps",
+        "id": 15,
+        "description": "GameZone offers addictive mini-games and interactive experiences for all ages, with leaderboard challenges and multiplayer support.",
+        "size": 120,
+        "reviews": 1300,
+        "ratingAvg": 4.7,
+        "downloads": 78000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 590
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/7YQtYPN0/fdfcdc11-ed78-449a-b872-30c80636a5e9-cover.png",
+        "title": "CookMate",
+        "companyName": "KitchenPro",
+        "id": 16,
+        "description": "CookMate is your personal recipe app, providing step-by-step cooking instructions, grocery lists, and meal planning features.",
+        "size": 55,
+        "reviews": 720,
+        "ratingAvg": 4.4,
+        "downloads": 46000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 130
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 330
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/FR9VVwx2/unnamed-1.webp",
+        "title": "LearnLang",
+        "companyName": "EduGlobal",
+        "id": 17,
+        "description": "LearnLang teaches new languages interactively with AI-powered quizzes, games, and progress tracking.",
+        "size": 65,
+        "reviews": 850,
+        "ratingAvg": 4.6,
+        "downloads": 51000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 220
+            },
+            {
+                "name": "5 star",
+                "count": 350
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/Rh2tyYcB/unnamed-2.png",
+        "title": "ShopEase",
+        "companyName": "EcomSmart",
+        "id": 18,
+        "description": "ShopEase offers an easy online shopping experience with smart AI recommendations and fast delivery.",
+        "size": 60,
+        "reviews": 1000,
+        "ratingAvg": 4.5,
+        "downloads": 64000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 140
+            },
+            {
+                "name": "4 star",
+                "count": 260
+            },
+            {
+                "name": "5 star",
+                "count": 510
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/Njk42g6M/unnamed-2.webp",
+        "title": "HealthTrack",
+        "companyName": "MediTech",
+        "id": 19,
+        "description": "HealthTrack monitors your daily health metrics, heart rate, and sleep patterns with detailed analytics and reports.",
+        "size": 50,
+        "reviews": 780,
+        "ratingAvg": 4.4,
+        "downloads": 42000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 110
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 405
+            }
+        ]
+    },
+    {
+        "image": "https://i.postimg.cc/mrhHZR8g/6198-sqhi3-L.jpg",
+        "title": "Artify",
+        "companyName": "CreativeApps",
+        "id": 20,
+        "description": "Artify allows users to create stunning digital art, edit photos, and share their artwork with a community of creators.",
+        "size": 70,
+        "reviews": 950,
+        "ratingAvg": 4.7,
+        "downloads": 58000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 35
+            },
+            {
+                "name": "2 star",
+                "count": 45
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "5 star",
+                "count": 470
+            }
+        ]
+    }
+]
