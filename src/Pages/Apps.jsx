@@ -14,7 +14,7 @@ const Apps = () => {
 
     return (
         <div className="max-w-11/12 mx-auto py-8">
-            <Toaster /> {/* Toast container */}
+            <Toaster />
             <h1 className="text-3xl font-bold text-center mb-4">All Apps</h1>
             <p className="text-center text-gray-600 mb-8">
                 Browse all available apps with detailed information.
