@@ -22,7 +22,7 @@ const AppDetails = () => {
             .catch(() => setLoading(false));
     }, [id]);
 
-    // Show loading state while fetching
+    // Show loading
     if (loading) {
         return <p className="text-center mt-10 text-gray-500 text-lg">Loading app details...</p>;
     }
